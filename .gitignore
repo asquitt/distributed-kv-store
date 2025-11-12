@@ -1,0 +1,33 @@
+# Binaries
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+distributed-kv-store
+server
+client
+
+# Test binary
+*.test
+
+# Output of the go coverage tool
+*.out
+
+# Data directories
+data/
+*.db
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
