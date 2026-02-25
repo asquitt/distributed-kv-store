@@ -5,8 +5,8 @@
 *.so
 *.dylib
 distributed-kv-store
-server
-client
+/server
+/client
 
 # Test binary
 *.test
